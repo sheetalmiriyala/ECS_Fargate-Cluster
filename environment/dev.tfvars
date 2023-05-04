@@ -8,7 +8,7 @@ availability_zones = [
   "us-east-1b"
 ]
 
-public_hosted_zone = "Z03840633HHYSQHJYWHJ9"
+public_hosted_zone = "Z05071623P2Z93H41KSIK"
 alb_certificate = "arn:aws:acm:us-east-1:653454134395:certificate/42606954-6e1d-4810-b01c-8129ecb4f6cf"
 
 #node group details
