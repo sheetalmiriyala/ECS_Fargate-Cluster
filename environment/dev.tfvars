@@ -9,7 +9,7 @@ availability_zones = [
 ]
 
 public_hosted_zone = "Z05071623P2Z93H41KSIK"
-alb_certificate = "arn:aws:acm:us-east-1:653454134395:certificate/42606954-6e1d-4810-b01c-8129ecb4f6cf"
+alb_certificate = "arn:aws:acm:us-east-1:572426695026:certificate/c2b92eb3-ca7b-402a-84c2-77aa2a176adf"
 
 #node group details
 ami_type = "AL2_x86_64"
